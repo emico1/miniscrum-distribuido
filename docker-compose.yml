@@ -3,7 +3,7 @@ services:
     build: ./gateway
     container_name: miniscrum_gateway
     ports:
-      - "3000:3000"
+      - "3001:3000"
     environment:
       PORT: 3000
       PHP_API_URL: http://php-api
