@@ -100,3 +100,5 @@ docker compose down -v
 
 8. **¿Qué parte representa la lógica de negocio?**  
    El servicio PHP (reglas del CRUD y validaciones) y el servicio Python (lógica de predicción de puntos Scrum).
+
+URL : http://10.14.255.93:3000/api/deploy/compose/h7tUX1hVvRiLRkXSnEmM6
